@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LEGION\\Desktop\\Ressume\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\portfolio\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\blogs\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\home\\resume.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|c:\\users\\legion\\desktop\\ressume\\presentation\\ressume.presentation\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7123906C-C9B3-4F3D-91A5-559D09098A95}|Presentation\\Ressume.Presentation\\Ressume.Presentation.csproj|solutionrelative:presentation\\ressume.presentation\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T14:25:22.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T14:25:02.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T13:54:02.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAM4AAAAAAAAAAAAcwOEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T12:59:25.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Blogs\\Details.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Blogs\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Blogs\\Details.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Blogs\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T14:26:51.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Portfolio\\Index.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Portfolio\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Portfolio\\Index.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Portfolio\\Index.cshtml",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAcwKEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T14:26:38.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Resume.cshtml",
+              "DocumentMoniker": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\Resume.cshtml",
+              "RelativeDocumentMoniker": "Presentation\\Ressume.Presentation\\Views\\Home\\Resume.cshtml",
+              "ToolTip": "C:\\Users\\LEGION\\Desktop\\Ressume\\Presentation\\Ressume.Presentation\\Views\\Home\\Resume.cshtml",
+              "RelativeToolTip": "Presentation\\Ressume.Presentation\\Views\\Home\\Resume.cshtml",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAQwLoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-10T14:26:01.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

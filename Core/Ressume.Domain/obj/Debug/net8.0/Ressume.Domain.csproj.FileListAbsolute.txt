@@ -1,0 +1,12 @@
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\bin\Debug\net8.0\Ressume.Domain.deps.json
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\bin\Debug\net8.0\Ressume.Domain.dll
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\bin\Debug\net8.0\Ressume.Domain.pdb
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.AssemblyInfo.cs
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.sourcelink.json
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.dll
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\refint\Ressume.Domain.dll
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\Ressume.Domain.pdb
+C:\Users\LEGION\Desktop\Ressume\Core\Ressume.Domain\obj\Debug\net8.0\ref\Ressume.Domain.dll
